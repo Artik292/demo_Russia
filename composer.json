@@ -1,0 +1,9 @@
+{
+    "require": {
+        "microsoft/azure-storage-blob": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "<6",
+        "phpunit/phpcov": "^3.0"
+    }
+}
